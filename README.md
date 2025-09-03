@@ -4,6 +4,9 @@ This repository contains the work done for the CS344 Operating Systems Lab cours
 
 ## Team Members
 Shobhit Gupta
+
 Shashwat Shankar
+
 Shubhranshu Pandey
+
 Parth Agarwal
